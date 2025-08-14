@@ -1,3 +1,3 @@
 # Eepiline-ppematerjal
-See on õppematerjalide tegemise õpetus
-tehtud
+See on õppematerjalide tegemise õpetus.
+Tehtud
